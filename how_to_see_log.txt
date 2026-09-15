@@ -1,0 +1,7 @@
+git log:
+press J to roll down (earliest)
+press K to roll up (latest)
+
+git log -p (commit ID):
+
+git
